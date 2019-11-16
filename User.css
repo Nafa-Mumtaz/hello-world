@@ -1,0 +1,12 @@
+table {
+	vertical-align: center;
+	border-collapse: separate;
+	 border-spacing: 10px;
+}
+tr, td, th {
+	border: 2px solid #FFF;
+	text-align: center;
+}
+footer {
+	bottom: 0px;
+}
